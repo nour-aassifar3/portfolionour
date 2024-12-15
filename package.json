@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://nour-aassifar3.github.io/portfeuille",
+  "homepage":"https://nour-aassifar3.github.io/portfeuille/",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "animate.css": "^4.1.1",
@@ -28,8 +28,6 @@
     "eject": "react-scripts eject",
     "predeploy":"npm run build",
     "deploy": "gh-pages -d build"
-
-
   },
   "eslintConfig": {
     "extends": [
